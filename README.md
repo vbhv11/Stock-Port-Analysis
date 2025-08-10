@@ -1,7 +1,8 @@
 # Stock-Port-Analysis - Power BI
 Power BI dashboard to analyze investment portfolio performance.
 
-![Dashboard Screenshot](./screenshots/Dashboard.png)
+<img src="./screenshots/Dashboard.png" alt="Dashboard Screenshot" width="600"/>
+
 
 # 📁 Project Overview 
 This Investment Portfolio Analysis Dashboard is a dynamic Power BI project designed to help investors track and evaluate their financial investments over time. It offers insights into returns, asset allocation, dividends, performance by investment type, and more.
